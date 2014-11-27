@@ -1,0 +1,3 @@
+[submodule "TestModSub"]
+	path = TestModSub
+	url = https://github.com/Starli0n/TestModSub.git
